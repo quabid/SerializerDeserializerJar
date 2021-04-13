@@ -13,4 +13,4 @@
   - TestsCleaner
 
 - IDE
-  - Visual Studio Code: 1.53.2 / installed all Java and related extensions by Microsoft
+  - Visual Studio Code: 1.55.1 / installed all Java and related extensions by Microsoft
